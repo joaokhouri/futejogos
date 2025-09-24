@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1087,
+    "nomeExibicao": "Pelé",
+    "nomeJogo": "PELE",
+    "nomeCompleto": "Edson Arantes do Nascimento",
+    "nacionalidade": "Brasil",
+    "fotoUrl": "/jogadores/1087.png",
+    "clubes": ["Santos", "New York Cosmos"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 874,
+    "nomeExibicao": "Lionel Messi",
+    "nomeJogo": "MESSI",
+    "nomeCompleto": "Lionel Andrés Messi Cuccittini",
+    "nacionalidade": "Argentina",
+    "fotoUrl": "/jogadores/874.png",
+    "clubes": ["Barcelona", "Paris Saint-Germain", "Inter Miami"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 876,
+    "nomeExibicao": "Cristiano Ronaldo",
+    "nomeJogo": "CRISTIANO RONALDO",
+    "nomeCompleto": "Cristiano Ronaldo dos Santos Aveiro",
+    "nacionalidade": "Portugal",
+    "fotoUrl": "/jogadores/876.png",
+    "clubes": ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al-Nassr"],
+    "numeroCamisa": 7
+  },
+  {
+    "id": 1289,
+    "nomeExibicao": "Zinedine Zidane",
+    "nomeJogo": "ZIDANE",
+    "nomeCompleto": "Zinedine Yazid Zidane",
+    "nacionalidade": "França",
+    "fotoUrl": "/jogadores/1289.png",
+    "clubes": ["Cannes", "Bordeaux", "Juventus", "Real Madrid"],
+    "numeroCamisa": 5
+  },
+  {
+    "id": 909,
+    "nomeExibicao": "Ronaldo",
+    "nomeJogo": "RONALDO",
+    "nomeCompleto": "Ronaldo Luís Nazário de Lima",
+    "nacionalidade": "Brasil",
+    "fotoUrl": "/jogadores/909.png",
+    "clubes": [
+      "Cruzeiro",
+      "PSV",
+      "Barcelona",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Corinthians"
+    ],
+    "numeroCamisa": 9
+  },
+  {
+    "id": 626,
+    "nomeExibicao": "Mohamed Salah",
+    "nomeJogo": "SALAH",
+    "nomeCompleto": "Mohamed Salah Ghaly",
+    "nacionalidade": "Egito",
+    "fotoUrl": "/jogadores/626.png",
+    "clubes": ["Al Mokawloon", "Basel", "Chelsea", "Fiorentina", "Roma", "Liverpool"],
+    "numeroCamisa": 11
+  },
+  {
+    "id": 617,
+    "nomeExibicao": "Erling Haaland",
+    "nomeJogo": "HAALAND",
+    "nomeCompleto": "Erling Braut Haaland",
+    "nacionalidade": "Noruega",
+    "fotoUrl": "/jogadores/617.png",
+    "clubes": ["Bryne", "Molde", "Red Bull Salzburg", "Borussia Dortmund", "Manchester City"],
+    "numeroCamisa": 9
+  },
+
+  {
+    "id": 276,
+    "nomeExibicao": "Neymar Jr.",
+    "nomeJogo": "NEYMAR",
+    "nomeCompleto": "Neymar da Silva Santos Júnior",
+    "nacionalidade": "Brasil",
+    "fotoUrl": "/jogadores/276.png",
+    "clubes": ["Santos", "Barcelona", "Paris Saint-Germain", "Al-Hilal"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 278,
+    "nomeExibicao": "Ronaldinho",
+    "nomeJogo": "RONALDINHO",
+    "nomeCompleto": "Ronaldo de Assis Moreira",
+    "nacionalidade": "Brasil",
+    "fotoUrl": "/jogadores/278.png",
+    "clubes": ["Grêmio", "Paris Saint-Germain", "Barcelona", "AC Milan", "Flamengo"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 18,
+    "nomeExibicao": "Kevin De Bruyne",
+    "nomeJogo": "DE BRUYNE",
+    "nomeCompleto": "Kevin De Bruyne",
+    "nacionalidade": "Bélgica",
+    "fotoUrl": "/jogadores/18.png",
+    "clubes": ["Genk", "Chelsea", "VfL Wolfsburg", "Manchester City"],
+    "numeroCamisa": 17
+  },
+  {
+    "id": 140,
+    "nomeExibicao": "Kylian Mbappé",
+    "nomeJogo": "MBAPPE",
+    "nomeCompleto": "Kylian Mbappé Lottin",
+    "nacionalidade": "França",
+    "fotoUrl": "/jogadores/140.png",
+    "clubes": ["Monaco", "Paris Saint-Germain"],
+    "numeroCamisa": 7
+  },
+  {
+    "id": 304,
+    "nomeExibicao": "Diego Maradona",
+    "nomeJogo": "MARADONA",
+    "nomeCompleto": "Diego Armando Maradona",
+    "nacionalidade": "Argentina",
+    "fotoUrl": "/jogadores/304.png",
+    "clubes": ["Argentinos Juniors", "Boca Juniors", "Barcelona", "Napoli", "Sevilla"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 129,
+    "nomeExibicao": "Thierry Henry",
+    "nomeJogo": "HENRY",
+    "nomeCompleto": "Thierry Daniel Henry",
+    "nacionalidade": "França",
+    "fotoUrl": "/jogadores/129.png",
+    "clubes": ["Monaco", "Juventus", "Arsenal", "Barcelona", "New York Red Bulls"],
+    "numeroCamisa": 14
+  },
+  {
+    "id": 787,
+    "nomeExibicao": "Johan Cruyff",
+    "nomeJogo": "CRUYFF",
+    "nomeCompleto": "Hendrik Johannes Cruijff",
+    "nacionalidade": "Holanda",
+    "fotoUrl": "/jogadores/787.png",
+    "clubes": ["Ajax", "Barcelona", "Feyenoord"],
+    "numeroCamisa": 14
+  },
+  {
+    "id": 1109,
+    "nomeExibicao": "Luka Modrić",
+    "nomeJogo": "MODRIC",
+    "nomeCompleto": "Luka Modrić",
+    "nacionalidade": "Croácia",
+    "fotoUrl": "/jogadores/1109.png",
+    "clubes": ["Dinamo Zagreb", "Tottenham Hotspur", "Real Madrid"],
+    "numeroCamisa": 10
+  },
+  {
+    "id": 293,
+    "nomeExibicao": "Kaká",
+    "nomeJogo": "KAKA",
+    "nomeCompleto": "Ricardo Izecson dos Santos Leite",
+    "nacionalidade": "Brasil",
+    "fotoUrl": "/jogadores/293.png",
+    "clubes": ["São Paulo", "AC Milan", "Real Madrid", "Orlando City"],
+    "numeroCamisa": 22
+  },
+  {
+    "id": 190,
+    "nomeExibicao": "Andrés Iniesta",
+    "nomeJogo": "INIESTA",
+    "nomeCompleto": "Andrés Iniesta Luján",
+    "nacionalidade": "Espanha",
+    "fotoUrl": "/jogadores/190.png",
+    "clubes": ["Barcelona", "Vissel Kobe"],
+    "numeroCamisa": 8
+  }
+]
