@@ -1,4 +1,5 @@
 // src/logic/jogo.ts (Versão Final Limpa)
+
 import type { Jogador, ResultadoLetra } from '../types';
 
 export function selecionarJogadorDoDia(listaDeJogadores: Jogador[]): Jogador {

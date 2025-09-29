@@ -1,0 +1,345 @@
+[
+  {
+    "nome": "Santos FC",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "New York Cosmos",
+    "pais": "EUA",
+    "tipo": "Clube",
+    "cor_primaria": "#004726",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Argentinos Juniors",
+    "pais": "Argentina",
+    "tipo": "Clube",
+    "cor_primaria": "#DA291C",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Boca Juniors",
+    "pais": "Argentina",
+    "tipo": "Clube",
+    "cor_primaria": "#003A70",
+    "cor_secundaria": "#FFC000"
+  },
+  {
+    "nome": "Barcelona",
+    "pais": "Espanha",
+    "tipo": "Clube",
+    "cor_primaria": "#A50044",
+    "cor_secundaria": "#004D98"
+  },
+  {
+    "nome": "Napoli",
+    "pais": "Itália",
+    "tipo": "Clube",
+    "cor_primaria": "#12A0D7",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Sevilla",
+    "pais": "Espanha",
+    "tipo": "Clube",
+    "cor_primaria": "#D41922",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Newell's Old Boys",
+    "pais": "Argentina",
+    "tipo": "Clube",
+    "cor_primaria": "#E20917",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Inter Miami CF",
+    "pais": "EUA",
+    "tipo": "Clube",
+    "cor_primaria": "#F7B5CD",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Paris Saint-Germain",
+    "pais": "França",
+    "tipo": "Clube",
+    "cor_primaria": "#004170",
+    "cor_secundaria": "#DA291C"
+  },
+  {
+    "nome": "Sporting CP",
+    "pais": "Portugal",
+    "tipo": "Clube",
+    "cor_primaria": "#00843D",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Manchester United",
+    "pais": "Inglaterra",
+    "tipo": "Clube",
+    "cor_primaria": "#DA291C",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Real Madrid",
+    "pais": "Espanha",
+    "tipo": "Clube",
+    "cor_primaria": "#FFFFFF",
+    "cor_secundaria": "#FEBE10"
+  },
+  {
+    "nome": "Juventus",
+    "pais": "Itália",
+    "tipo": "Clube",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Al Nassr",
+    "pais": "Arábia Saudita",
+    "tipo": "Clube",
+    "cor_primaria": "#FFDF00",
+    "cor_secundaria": "#003A70"
+  },
+  {
+    "nome": "Cannes",
+    "pais": "França",
+    "tipo": "Clube",
+    "cor_primaria": "#DA291C",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Bordeaux",
+    "pais": "França",
+    "tipo": "Clube",
+    "cor_primaria": "#001A4C",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Grêmio",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#0D5199",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "AC Milan",
+    "pais": "Itália",
+    "tipo": "Clube",
+    "cor_primaria": "#FB090B",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Flamengo",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#D2122E",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Atlético Mineiro",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Querétaro",
+    "pais": "México",
+    "tipo": "Clube",
+    "cor_primaria": "#0064B1",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Fluminense",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#7A0025",
+    "cor_secundaria": "#006437"
+  },
+  {
+    "nome": "Cruzeiro",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#003A94",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "PSV Eindhoven",
+    "pais": "Holanda",
+    "tipo": "Clube",
+    "cor_primaria": "#DD0026",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Inter de Milão",
+    "pais": "Itália",
+    "tipo": "Clube",
+    "cor_primaria": "#010E80",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Corinthians",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#101010",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Vasco da Gama",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#231F20",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Valencia",
+    "pais": "Espanha",
+    "tipo": "Clube",
+    "cor_primaria": "#FFFFFF",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Santa Cruz",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#D2122E",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Mogi Mirim",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#D51A20",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Palmeiras",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#006437",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Deportivo La Coruña",
+    "pais": "Espanha",
+    "tipo": "Clube",
+    "cor_primaria": "#0064B1",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Olympiacos",
+    "pais": "Grécia",
+    "tipo": "Clube",
+    "cor_primaria": "#D2122E",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "AEK Atenas",
+    "pais": "Grécia",
+    "tipo": "Clube",
+    "cor_primaria": "#FFE500",
+    "cor_secundaria": "#000000"
+  },
+  {
+    "nome": "Bunyodkor",
+    "pais": "Uzbequistão",
+    "tipo": "Clube",
+    "cor_primaria": "#0055A4",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "São Paulo",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#E21A22",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Orlando City",
+    "pais": "EUA",
+    "tipo": "Clube",
+    "cor_primaria": "#623192",
+    "cor_secundaria": "#FDE100"
+  },
+  {
+    "nome": "Botafogo",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#000000",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Olaria",
+    "pais": "Brasil",
+    "tipo": "Clube",
+    "cor_primaria": "#003A70",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Ajax",
+    "pais": "Holanda",
+    "tipo": "Clube",
+    "cor_primaria": "#D2122E",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Los Angeles Aztecs",
+    "pais": "EUA",
+    "tipo": "Clube",
+    "cor_primaria": "#F47920",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Washington Diplomats",
+    "pais": "EUA",
+    "tipo": "Clube",
+    "cor_primaria": "#DA291C",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Feyenoord",
+    "pais": "Holanda",
+    "tipo": "Clube",
+    "cor_primaria": "#B22222",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Nancy",
+    "pais": "França",
+    "tipo": "Clube",
+    "cor_primaria": "#D51A20",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Saint-Étienne",
+    "pais": "França",
+    "tipo": "Clube",
+    "cor_primaria": "#008C4A",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Bayern de Munique",
+    "pais": "Alemanha",
+    "tipo": "Clube",
+    "cor_primaria": "#DC052D",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Hamburgo",
+    "pais": "Alemanha",
+    "tipo": "Clube",
+    "cor_primaria": "#00549A",
+    "cor_secundaria": "#FFFFFF"
+  },
+  {
+    "nome": "Vissel Kobe",
+    "pais": "Japão",
+    "tipo": "Clube",
+    "cor_primaria": "#BF0025",
+    "cor_secundaria": "#FFFFFF"
+  }
+]

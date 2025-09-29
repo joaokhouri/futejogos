@@ -1,14 +1,37 @@
 // src/types.ts
 
+export type Passagem = {
+  clube: string;
+  inicio: number;
+  fim: number | null; // Nulo se o jogador ainda estiver no clube
+};
+
 export type Jogador = {
   id: number;
-  nomeExibicao: string;
-  nomeJogo: string; // O nome para a lógica do jogo
-  nomeCompleto: string;
-  nacionalidade: string;
+  nomeExibicao: string; // Ex: "Ronaldinho"
+  nomeJogo: string; // Ex: "RONALDINHO"
+  nomeCompleto: string; // Ex: "Ronaldo de Assis Moreira"
+  apelido?: string; // Opcional, ex: "Bruxo"
+  nacionalidade: string; // Ex: "Brasil"
+  data_nascimento?: string; // Opcional, ex: "1980-03-21"
+  posicoes_gerais: string[]; // MACRO, ex: ["Meio-campista", "Atacante"]
+  posicoes_especificas: string[]; // MICRO, ex: ["Meia Armador", "Ponta Esquerda"]
+  numero_camisa_iconica: number | null; // O número principal, ex: 10
+  numeros_camisa: number[]; // Todos os números que já usou, ex: [10, 49, 80]
+  clubeAtual: string; // O clube mais recente ou icônico para a camisa
+  passagens: Passagem[]; // O histórico completo de carreira
   fotoUrl: string;
-  clubes: string[];
-  numeroCamisa: number | null;
+};
+
+// Descreve a estrutura de um clube
+export type Clube = {
+  nome: string;
+  pais: string;
+  // Mantemos este objeto para o JSON, o script vai separar
+  cor_primaria: string;
+  cor_secundaria: string;
+  tipo: 'Clube' | 'Seleção'; // Adicionamos o novo campo
+  // logoUrl foi removido
 };
 
 export type ResultadoLetra = {
